@@ -1,5 +1,3 @@
-# Sistemas_Operativos
-[Apuntes](https://fisop.github.io/apunte/index.html)
 # Sistemas Operativos - Teórica Martes
 
 ### Cuatrimestre de Cursada
@@ -16,3 +14,5 @@ Este repositorio contiene parciales de cuatrimestres anteriores, resúmenes, par
 - `/Parciales`: parciales de cuatris recientes anteriores (1C2024, 2C2024, etc), algunos resueltos.
 -  `/Parcialitos - Práctica`: modelos de los parcialitos de la práctica sobre cada TP.
 - `/Resúmenes`: resúmenes de los contenidos (no míos).
+  
+[Apuntes de la cátedra](https://fisop.github.io/apunte/index.html)
